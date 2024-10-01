@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    tools:context=".Commande">
+
+    <Button
+        android:id="@+id/arr"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#8FFB5A5A"
+        android:text="COMMANDE" />
+
+    <LinearLayout
+        android:layout_width="380dp"
+        android:layout_height="528dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"
+        android:backgroundTint="#D7FFFFFF"
+        android:backgroundTintMode="multiply"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:id="@+id/linearLayout3"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/button55"
+                android:layout_width="136dp"
+                android:layout_height="match_parent"
+                android:backgroundTint="#ED4A4A"
+                android:text="       Nom"
+                android:textAllCaps="true"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/button133"
+                android:layout_width="116dp"
+                android:layout_height="match_parent"
+                android:backgroundTint="#F14646"
+                android:text="Q.rest"
+                android:textAllCaps="true"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/button144"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:backgroundTint="#ED1616"
+                android:text="Alerte"
+                android:textStyle="bold" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <ListView
+                android:id="@+id/commande"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:longClickable="true" />
+        </LinearLayout>
+    </LinearLayout>
+
+
+</LinearLayout>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/a"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/da"
+        android:layout_width="match_parent"
+        android:layout_height="44dp"
+        android:layout_marginStart="8dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/nomv"
+            android:layout_width="66dp"
+            android:layout_height="100dp"
+            android:textAlignment="center"
+            android:textSize="14sp"
+            android:textStyle="normal" />
+
+        <TextView
+            android:id="@+id/prixunitv"
+            android:layout_width="137dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:textAlignment="center"
+            android:textSize="14sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/prix_achat"
+            android:layout_width="80dp"
+            android:layout_height="100dp"
+            android:textAlignment="center"
+            android:textSize="14sp"
+            android:textStyle="normal" />
+
+        <TextView
+            android:id="@+id/totalv"
+            android:layout_width="80dp"
+            android:layout_height="100dp"
+            android:elegantTextHeight="true"
+            android:textAlignment="center"
+            android:textSize="14sp"
+            android:textStyle="bold" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/d"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/date"
+            android:layout_width="385dp"
+            android:layout_height="match_parent"
+            android:gravity="end"
+            android:textAlignment="center"
+            android:textSize="16sp"
+            android:textStyle="italic" />
+    </LinearLayout>
+
+
+</LinearLayout>

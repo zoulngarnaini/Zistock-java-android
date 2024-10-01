@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ZLGR2N/AndroidStudioProjects/Zistock/app/src/main/res/layout/activity_ajouter.xml" value="0.17" />
+        <entry key="..\:/Users/ZLGR2N/AndroidStudioProjects/Zistock/app/src/main/res/layout/activity_arrivage.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/ZLGR2N/AndroidStudioProjects/Zistock/app/src/main/res/layout/activity_calculatrice.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/ZLGR2N/AndroidStudioProjects/Zistock/app/src/main/res/layout/activity_commande.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/ZLGR2N/AndroidStudioProjects/Zistock/app/src/main/res/layout/activity_inventaire.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/ZLGR2N/AndroidStudioProjects/Zistock/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/ZLGR2N/AndroidStudioProjects/Zistock/app/src/main/res/layout/activity_menu.xml" value="0.19444444444444445" />
+        <entry key="..\:/Users/ZLGR2N/AndroidStudioProjects/Zistock/app/src/main/res/layout/activity_outils.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/ZLGR2N/AndroidStudioProjects/Zistock/app/src/main/res/layout/activity_recu.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/ZLGR2N/AndroidStudioProjects/Zistock/app/src/main/res/layout/activity_stock.xml" value="0.18" />
+        <entry key="..\:/Users/ZLGR2N/AndroidStudioProjects/Zistock/app/src/main/res/layout/activity_vente.xml" value="0.17" />
+        <entry key="..\:/Users/ZLGR2N/AndroidStudioProjects/Zistock/app/src/main/res/layout/am.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ZLGR2N/AndroidStudioProjects/Zistock/app/src/main/res/layout/exemplaire.xml" value="0.24970131421744324" />
+        <entry key="..\:/Users/ZLGR2N/AndroidStudioProjects/Zistock/app/src/main/res/layout/exemplairecom.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/ZLGR2N/AndroidStudioProjects/Zistock/app/src/main/res/layout/exemplaireinvent.xml" value="0.18981481481481483" />
+        <entry key="..\:/Users/ZLGR2N/AndroidStudioProjects/Zistock/app/src/main/res/layout/menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ZLGR2N/AndroidStudioProjects/Zistock/app/src/main/res/menu/accueil.xml" value="0.1" />
+        <entry key="..\:/Users/ZLGR2N/AndroidStudioProjects/Zistock/app/src/main/res/menu/commande.xml" value="0.19444444444444445" />
+        <entry key="..\:/Users/ZLGR2N/AndroidStudioProjects/Zistock/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.20555555555555555" />
+        <entry key="..\:/Users/ZLGR2N/AndroidStudioProjects/Zistock/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.20555555555555555" />
+        <entry key="..\:/Users/ZLNGR2N/AndroidStudioProjects/Zistock/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/ZLNGR2N/AndroidStudioProjects/Zistock/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/ZLNGR2N/AndroidStudioProjects/Zistock/app/src/main/res/drawable/ic_search_black_24dp.xml" value="0.1" />
+        <entry key="..\:/Users/ZLNGR2N/AndroidStudioProjects/Zistock/app/src/main/res/layout/activity_ajouter.xml" value="0.18" />
+        <entry key="..\:/Users/ZLNGR2N/AndroidStudioProjects/Zistock/app/src/main/res/layout/activity_arrivage.xml" value="0.12" />
+        <entry key="..\:/Users/ZLNGR2N/AndroidStudioProjects/Zistock/app/src/main/res/layout/activity_calculatrice.xml" value="0.1465811965811966" />
+        <entry key="..\:/Users/ZLNGR2N/AndroidStudioProjects/Zistock/app/src/main/res/layout/activity_classecontenu.xml" value="0.1465811965811966" />
+        <entry key="..\:/Users/ZLNGR2N/AndroidStudioProjects/Zistock/app/src/main/res/layout/activity_commande.xml" value="0.33" />
+        <entry key="..\:/Users/ZLNGR2N/AndroidStudioProjects/Zistock/app/src/main/res/layout/activity_inventaire.xml" value="0.22" />
+        <entry key="..\:/Users/ZLNGR2N/AndroidStudioProjects/Zistock/app/src/main/res/layout/activity_main.xml" value="0.1465811965811966" />
+        <entry key="..\:/Users/ZLNGR2N/AndroidStudioProjects/Zistock/app/src/main/res/layout/activity_menu.xml" value="0.1465811965811966" />
+        <entry key="..\:/Users/ZLNGR2N/AndroidStudioProjects/Zistock/app/src/main/res/layout/activity_outils.xml" value="0.25" />
+        <entry key="..\:/Users/ZLNGR2N/AndroidStudioProjects/Zistock/app/src/main/res/layout/activity_recu.xml" value="0.17123287671232876" />
+        <entry key="..\:/Users/ZLNGR2N/AndroidStudioProjects/Zistock/app/src/main/res/layout/activity_stock.xml" value="0.15" />
+        <entry key="..\:/Users/ZLNGR2N/AndroidStudioProjects/Zistock/app/src/main/res/layout/activity_vente.xml" value="0.1465811965811966" />
+        <entry key="..\:/Users/ZLNGR2N/AndroidStudioProjects/Zistock/app/src/main/res/layout/exemplaire.xml" value="0.1465811965811966" />
+        <entry key="..\:/Users/ZLNGR2N/AndroidStudioProjects/Zistock/app/src/main/res/layout/exemplairecom.xml" value="0.1465811965811966" />
+        <entry key="..\:/Users/ZLNGR2N/AndroidStudioProjects/Zistock/app/src/main/res/layout/exemplaireinvent.xml" value="0.22" />
+        <entry key="..\:/Users/ZLNGR2N/AndroidStudioProjects/Zistock/app/src/main/res/layout/menu.xml" value="0.1465811965811966" />
+        <entry key="..\:/Users/ZLNGR2N/AndroidStudioProjects/Zistock/app/src/main/res/menu/accueil.xml" value="0.1465811965811966" />
+        <entry key="..\:/Users/ZLNGR2N/AndroidStudioProjects/Zistock/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.21481481481481482" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.33" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:id="@+id/date"
+        android:layout_height="83dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"
+        android:orientation="horizontal"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TextView
+            android:id="@+id/nomv"
+            android:layout_width="70dp"
+            android:layout_height="match_parent"
+            android:textAlignment="center"
+            android:textSize="14sp"
+            android:textStyle="normal" />
+
+        <TextView
+            android:id="@+id/prixunitv"
+            android:layout_width="80dp"
+            android:layout_height="match_parent"
+            android:textAlignment="center"
+            android:textSize="16sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/prix_achat"
+            android:layout_width="99dp"
+            android:layout_height="match_parent"
+            android:textAlignment="center"
+            android:textSize="14sp"
+            android:textStyle="normal|bold" />
+
+        <TextView
+            android:id="@+id/totalv"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:elegantTextHeight="true"
+            android:textAlignment="center"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
